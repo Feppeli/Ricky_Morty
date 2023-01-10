@@ -3,6 +3,7 @@
 Esse projeto tem como objetivo apenas pratica e aplicação de conhecimento em testes
 práticos de vagas para desenvolvedores juniors
 
+<hr>
 
 ### Tecnologias usadas:
 
